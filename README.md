@@ -3,9 +3,9 @@
 I do stuff
 
 Currently:
--- doing stuff
--- not knowing how to write code (apparentely)
--- procrastinating
+- doing stuff
+- not knowing how to write code (apparentely)
+- procrastinating
 
 
 | ||
