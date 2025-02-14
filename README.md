@@ -1,16 +1,13 @@
-## Hi there 👋
+## Why you here? What need?
 
-<!--
-**pipo-cxx/pipo-cxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do stuff
 
-Here are some ideas to get you started:
+Currently:
+-- doing stuff
+-- not knowing how to write code (apparentely)
+-- procrastinating
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| ||
+
+|| |_
